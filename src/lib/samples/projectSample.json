@@ -1,0 +1,31 @@
+{
+	"id": "41c397a4-7aba-46af-9193-af85dd6b8869",
+	"title": "My New Project",
+	"description": "My New Project Description",
+	"createdAt": 1727036221596,
+	"lastModified": 1727036221596,
+	"application": {
+		"nodes": [],
+		"edges": []
+	},
+	"behavior": [
+		{
+			"nodes": [],
+			"edges": []
+		},
+		{
+			"nodes": [],
+			"edges": []
+		}
+	],
+	"dataStructure": [
+		{
+			"nodes": [],
+			"edges": []
+		},
+		{
+			"nodes": [],
+			"edges": []
+		}
+	]
+}
